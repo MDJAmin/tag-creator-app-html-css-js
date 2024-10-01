@@ -32,3 +32,22 @@
     cursor: pointer;
     font-weight: bold;
 }
+input {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    flex: 1;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
